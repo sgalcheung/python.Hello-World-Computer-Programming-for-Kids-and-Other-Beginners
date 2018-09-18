@@ -1,0 +1,4 @@
+# -*- coding: cp936 -*-
+xstr = raw_input("ÇëÊäÈëĞÕ£º")
+mstr = raw_input("ÇëÊäÈëÃû£º")
+print mstr + xstr
