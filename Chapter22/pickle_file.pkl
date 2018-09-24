@@ -1,0 +1,10 @@
+(lp0
+S'sgal'
+p1
+aS'22'
+p2
+aS'green'
+p3
+aS'banana'
+p4
+a.
